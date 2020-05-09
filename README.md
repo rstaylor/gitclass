@@ -9,4 +9,4 @@ some new text for difftool example
 
 Create some new changes for Branch session
 
-Changes on updates branch
+Making the change on master
