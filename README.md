@@ -6,3 +6,7 @@ Addding some text to this readme
 
 
 some new text for difftool example
+
+Create some new changes for Branch session
+
+Changes on updates branch
